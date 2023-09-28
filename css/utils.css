@@ -427,6 +427,10 @@ section:not(#intro)  .section-img:hover > img {
     margin: 1.5rem  0;
 }
 
+.section-img {
+    height: 100%;
+}
+
 .section-img::before {
     background-repeat: no-repeat;
     background-size: cover;

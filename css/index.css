@@ -388,6 +388,15 @@
         width: 100%;
     }
 
+
+    .buttons-container  .section-img.first::before {
+        top: -50% !important;
+    }
+
+    .buttons-container  .section-text {
+        color: #292d34;
+    }
+
     .buttons-container > .section-row:not(.d-none) {
         /* max-height: 100rem !important; */
         transform: translateY(0);
