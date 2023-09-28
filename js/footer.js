@@ -1,3 +1,5 @@
+// To change the date content in the footer as year changes 
+
 const handleDate = () => {
     const footerCopyElement = document.querySelector('.copyright > p > a');
     const currentDate = new Date();
