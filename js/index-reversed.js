@@ -66,7 +66,6 @@ window.addEventListener('load', () => {
   
   
   
-  
   const tabForSmallerScreens = (clickElements) => {
     const sectionElements = document.querySelectorAll('.buttons-container > .pointer > .section-row');
     const containerElement = document.querySelector('.sections-container');
